@@ -1,0 +1,79 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:beige;
+}
+.caixa{
+    background-color: #8B1874;
+    width: 400px;
+    height: 990px;
+    float: left; 
+    border-radius: 25px;  
+    margin-bottom: 10px;
+}
+h1{ 
+    font-size: 90px;
+    color: #F79540;
+    text-align: center;
+}
+.informações{
+    color: #F79540;
+    position:absolute;
+    padding-left: 3%;
+    padding: auto;
+    font-size: 20px;
+    text-align: left;
+    line-height: 0.5;
+}
+.p{
+    font-weight: bold;
+}
+.img{
+    height: 20px;
+    width: 20px;
+    color: #F79540;
+}
+.interesses{
+    padding: 30px;
+    width: 220px;
+    font-size: 20px;
+    position: absolute;
+    transform: translateX(660px);
+    border-radius: 20px;
+    background-color: rgb(139, 24, 116, 0.2);
+}
+.educação{
+    background-color: rgb(139, 24, 116, 0.2);
+    font-size: 20px;
+    width: 220px;
+    padding: 30px;
+    translate: 660px 333px;
+    border-radius: 20px;
+    position: absolute;
+}
+.outras_linguas{
+    background-color: rgb(139, 24, 116, 0.2);
+    font-size: 20px;
+    width: 220px;
+    padding: 30px;
+    translate: 963px 377px;
+    border-radius: 20px;
+    position: absolute;     
+}
+.habilidades{
+    background-color: rgb(139, 24, 116, 0.2);
+    font-size: 20px;
+    width: 220px;
+    padding: 30px;
+    transform: translateX(963px);
+    border-radius: 20px;
+    position: absolute; 
+}
+ul{
+    list-style: none;
+}
+footer{
+    font-size: 20px;
+    position: absolute;
+    transform: translateY(880px);
+    translate: 600px;
+}
